@@ -1,5 +1,1 @@
-(仮)^2////
-
-kkkkkkkk
-
-rrrrrrrrrrrrrrrrrrrrrrr
+(仮)refresh
