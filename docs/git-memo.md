@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Git Memo"
-permalink: /git-memo/
+title: "git Memo"
+permalink: /docs/git-memo
 ---
 
 # Git Memo
